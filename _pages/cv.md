@@ -11,54 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science (2024-Present), Hong Kong University of Science and Technology
+  * HKUST NLP Group
+  * Supervisor: Professor Junxian He
+* B.Eng. (2020-2024), Shanghai Jiao Tong University
+  * Advisor: Professor Junxian He
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* February 2025 - Present: Research Intern
+  * MINIMAX
+* June 2024 - September 2024: Research Intern
+  * Tencent WXG
+  * Advisor: Zifei Shan
+* June 2023 - December 2023: Research Intern
+  * Shanghai AI Lab
+  * Advisor: Prof. Yu Cheng
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Natural Language Processing
+* Machine Learning
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (Arxiv, 2025)
+  * Junteng Liu (First Author), Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
+* **On the Perception Bottleneck of VLMs for Chart Understanding** (Arxiv, 2025)
+  * Junteng Liu (First Author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
+* **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024)
+  * Junteng Liu (First Author), Shiqi Chen, Yu Cheng, Junxian He
+* **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)
+  * Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
+* **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023)
+  * Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
+* **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023)
+  * Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
+
+Honors and Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
